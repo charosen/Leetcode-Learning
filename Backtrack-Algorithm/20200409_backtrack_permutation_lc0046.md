@@ -48,7 +48,7 @@ def permute(self, nums: List[int]) -> List[List[int]]:
 
 **画图分析**
 
-![](../media/lc0046-全排列.pdf)
+![-w20000](../media/lc0046-全排列.png)
 
 
 ```

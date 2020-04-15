@@ -38,7 +38,7 @@
 
 **画图分析**
 
-![](../media/lc0526-优美的排列.pdf)
+![-w20000](../media/lc0526-优美的排列.png)
 
 ```
 class Solution:

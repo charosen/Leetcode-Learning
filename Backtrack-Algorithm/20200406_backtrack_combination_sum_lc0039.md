@@ -101,7 +101,7 @@ class Solution:
 
 ![](https://pic.leetcode-cn.com/ade93b4f0678b2b1385ad1362ff426ce0a5a800a5b0ae07dfb65f58677374559-39-3.png)
 
-![-w5000](../media/lc0039-组合之和.pdf)
+![-w20000](../media/lc0039-组合之和.png)
 
 
 

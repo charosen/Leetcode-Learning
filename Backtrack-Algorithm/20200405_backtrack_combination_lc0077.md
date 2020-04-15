@@ -85,7 +85,7 @@ class Solution:
 
 ![](../media/15860961568540.jpg)
 
-![-w](../media/lc0077-组合.pdf)
+![-w20000](../media/lc0077-组合.png)
 
 
 **复杂度分析**

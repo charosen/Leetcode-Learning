@@ -29,7 +29,7 @@
 
 **画图理解**
 
-![-w10000](../media/lc0078-子集.pdf)
+![-w20000](../media/lc0078-子集.png)
 
 ```
 class Solution:

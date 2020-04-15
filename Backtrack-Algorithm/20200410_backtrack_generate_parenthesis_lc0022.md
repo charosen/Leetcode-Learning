@@ -25,7 +25,7 @@
 
 **画图分析**
 
-![](../media/lc0022-括号生成.pdf)
+![-w20000](../media/lc0022-括号生成.png)
 
 ```
 from typing import List
